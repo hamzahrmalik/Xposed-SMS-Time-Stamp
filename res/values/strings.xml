@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">SMS Time Append</string>
+    <string name="title_activity_main">SMS Time Append</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="option_24h">Use 24 hour clock</string>
+    <string name="save">Save</string>
+    <string name="option_separator">Show separator</string>
+
 </resources>
